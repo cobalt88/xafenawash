@@ -1,9 +1,9 @@
 # Xafenawash
 Buisiness web page for Xafena Wash Mobile Detailing Service located in central Florida.
 
-###Notes: 
+### Notes: 
 
-####To Do:
+#### To Do:
 
 Services List, 
 About Info,
